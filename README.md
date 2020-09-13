@@ -1,5 +1,5 @@
 # Guttenberg
-Exercicio Html
+Exercicio Para Treinar/Relembrar Html
 ## Objetivo
 Transformar um livro em formato UTF-8 para uma pagina completa HTML sem muita utilização de CSS limitado somente a:
 *   Margin
